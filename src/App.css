@@ -1,0 +1,30 @@
+div{
+  text-align: center;
+}
+.head{
+  font-size: 40px;
+  color: teal;
+}
+
+.num{
+  color: chocolate;
+  font-size: 30px;
+}
+
+button{
+  margin: 10px;
+  width: 70px;
+  height: 40px;
+  background-color: aliceblue;
+  border:transparent;
+  font-size: 15px;
+  color: rgb(39, 39, 39);
+  border-radius: 5px;
+}
+
+button:hover{
+  background-color: rgb(80, 80, 170);
+  color: white;
+  outline: none;
+  transition: 0.5s;
+}
